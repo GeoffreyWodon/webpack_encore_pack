@@ -1,3 +1,4 @@
 {
-  "name": "symfony/webpack_encore_pack"
+  "name": "symfony/webpack_encore_pack",
+  "version": "v1.0.3"
 }
